@@ -1,0 +1,16 @@
+.box{
+  display:flex;
+  gap:18px;
+}
+.box1{
+  border: 1px solid black ;
+  width:48%;
+  height: 650px;
+  margin-left:5px;
+  
+}
+.box2{
+  border: 1px solid black ;
+  width:48%;
+  height:650px;
+}
